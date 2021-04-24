@@ -2,4 +2,4 @@
 
 
 
-1) Características da linguagem;
+1) Características da linguagem : ...
