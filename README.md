@@ -1,4 +1,4 @@
-# Estudo Java :man_student:
+# 1) Estudo Java:man_student:
 
 * Diferente de outras linguagens de programação, que são compiladas para código nativo, o Java é compilado para um bytecode que é interpretado por uma máquina virtual.
 
@@ -28,9 +28,46 @@ Java Standard Edition, é a distribuição mínima da plataforma de desenvolvime
 
 Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenvolvimento de sistemas corporativos. Além do mínimo da plataforma, o Java EE possui diversas especificações de partes da infraestrutura de aplicações, como acesso a banco de dados, mensageria, serviços web, parser de arquivos e outros.
 
+# 2) Tipos Java:coffee:
 
+## :arrow_right: Tipos primitivos
 
-# :eye: no código:
+* byte, short, int, long, float, double, char, boolean.
+* Não aceitam valores nulos e possuem valores por padrão.
+
+### Capacidade de armazenamento dos inteiros: 
+
+* **byte**: 8 bits, você pode colocar números de -128 até 127 em um byte, por exemplo.
+* **char**: 16 bits.
+* **short**: 16 bits.
+* **int**: 32 bits.
+* **long**: 64 bits.
+
+### Capacidade de armazenamento dos flutuantes:
+
+* **float**: 32 bits.
+* **double**: 64 bits.
+
+**OBS.:** Devemos salientar que o tipo booleano , armazenar apenas um valor, sendo ele True ou False.
+
+## :arrow_right:Tipos não primitivos
+
+### Wrappers
+
+* São objetos que representam os primitivos, veja mais sobre Auto-boxing e unboxing.
+* Caso você queira definir tipos primitivos como nulos, pode utilizar os wrappers.
+
+### Outros
+
+* String, Number, Object e quaisquer outros objetos.
+
+## :arrow_right:Tipagem
+
+* **Forte e estática**: Em tempo de compilação, os tipos já são verificados. Uma vez que o tipo for atribuído a uma variável, ele não pode ser alterado.
+
+# 3) Modificadores de acesso :lock:
+
+# 4) :eye: no código:
 
 ## :file_folder: CaracteristicasDaLinguagem : 
 
