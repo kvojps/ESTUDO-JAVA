@@ -32,5 +32,7 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 # :eye: no código:
 
+## Características da linguagem
 
-
+* Como vocês podem ver no arquivo EstruturaClasse.java, como o próprio nome já diz, mostro a vocês a estrutura de uma programa em Java, nesse caso, apenas mais um ou o primeiro "hello world " no seu console. 
+* No Pacote Usuario, percebam que abordo conceitos iniciais da linguagem definindo um construtor para minha classe SuperUsuario, que vai ser utilizado para criação do objeto na classe ProgramaDoSuperUsuario.
