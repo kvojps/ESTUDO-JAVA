@@ -143,6 +143,6 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 ## :file_folder: CaracteristicasDaLinguagem : 
 
-* Como vocês podem ver no arquivo **EstruturaClasse.java**, como o próprio nome já diz, mostro a vocês a estrutura de uma programa em Java, nesse caso, apenas mais um ou o primeiro "hello world " no seu console. 
+* Como vocês podem ver no arquivo [EstruturaClasse](https://github.com/kvojps/ESTUDO-JAVA/blob/main/CaracteristicasDaLinguagem/Classes/EstruturaClasse.java), como o próprio nome já diz, mostro a vocês a estrutura de uma programa em Java, nesse caso, apenas mais um ou o primeiro "hello world " no seu console. 
 
-* Na pasta **Usuario**, percebam que abordo conceitos iniciais da linguagem definindo um construtor para minha classe SuperUsuario, que vai ser utilizado para criação do objeto na classe ProgramaDoSuperUsuario e a posterior execução dos métodos definidos(getLogin(), getSenha()) em SuperUsuario.
+* Na pasta [Usuario](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Classes/Usuario), percebam que abordo conceitos iniciais da linguagem definindo um construtor para minha classe SuperUsuario, que vai ser utilizado para criação do objeto na classe ProgramaDoSuperUsuario e a posterior execução dos métodos definidos(getLogin(), getSenha()) em SuperUsuario.
