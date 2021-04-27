@@ -1,4 +1,4 @@
-package Java.CaracteristicasDaLinguagem;
+package Java.CaracteristicasDaLinguagem.Classes;
 
 public class EstruturaClasse {
     public static void main(String[] args) {
