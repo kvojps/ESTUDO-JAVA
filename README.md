@@ -93,9 +93,25 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 ## :arrow_right:final
 
-* Quando é aplicado na classe, não permite estender, nos métodos impede que o mesmo seja sobescrito (overriding) na subclasse, e nos valores de variáveis não pode ser alterado depois que já tenha sifo atribuído um valor.
+* Quando é aplicado na classe, não permite estender, nos métodos impede que o mesmo seja sobescrito (overriding) na subclasse, e nos valores de variáveis não pode ser alterado depois que já tenha sido atribuído um valor.
 
-# 4) :eye: no código:
+# 4) Interfaces :computer:
+
+* Métodos **abstratos**
+  - Devem ser implementados por todos.
+  - Novos métodos quebram as implementações.
+* Métodos **default**
+  * São herdados a todos que o implementam.
+  * Novos métodos não quebram as implementações.
+
+# 5) Enums :computer:
+
+* Basicamente são dicionários de dados imutáveis.
+* Não é permitido criar novas instâncias.
+* O construtor é sempre declarado como private.
+* Por convenção, por serem objetos constantes e imutáveis(static, final), os nomes são em maiúsculo.
+
+# 6) :eye: no código
 
 ## :file_folder: CaracteristicasDaLinguagem : 
 
