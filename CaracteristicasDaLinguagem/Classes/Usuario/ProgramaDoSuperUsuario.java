@@ -1,4 +1,4 @@
-package Java.CaracteristicasDaLinguagem.Usuario;
+package Java.CaracteristicasDaLinguagem.Classes.Usuario;
 
 public class ProgramaDoSuperUsuario {
     public static void main(String[] args) {

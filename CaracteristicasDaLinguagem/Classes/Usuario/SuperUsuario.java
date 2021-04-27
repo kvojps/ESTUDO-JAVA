@@ -1,4 +1,4 @@
-package Java.CaracteristicasDaLinguagem.Usuario;
+package Java.CaracteristicasDaLinguagem.Classes.Usuario;
 
 public class SuperUsuario {
     private String login;
