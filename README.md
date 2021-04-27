@@ -111,7 +111,35 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 * O construtor é sempre declarado como private.
 * Por convenção, por serem objetos constantes e imutáveis(static, final), os nomes são em maiúsculo.
 
-# 6) :eye: no código
+# 6) Métodos de Strings :nerd_face:
+
+* Alguns dos exemplos abaixo foram descritos no pacote [Strings](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Strings) presente neste repositório.
+
+| Método                | Descrição                                                    | tipo retornado |
+| --------------------- | ------------------------------------------------------------ | -------------- |
+| charAt()              | Retorna o caractere no índice especificado(posição).         | char           |
+| compareTo()           | Compara duas strings lexicograficamente.                     | int            |
+| compareToIgnoreCase() | Compara duas strings lexicograficamente, ignorando  as case differences. | int            |
+| concat()              | Acrescenta uma string ao final de outra string.              | String         |
+| contains()            | Verifica se uma string contém uma sequência de  caracteres.  | boolean        |
+| equals()              | Compara duas strings, retorna verdadeiro se as  strings são iguais e falso se não. | boolean        |
+| equalsIgnoreCase()    | Compara duas strings, ignorando as case considerations.      | boolean        |
+| format()              | Retorna uma string formatada usando o local escolhido, formato da string e argumentos. | String         |
+| getBytes()            | Codifica esta string em uma sequência de bytes usando o conjunto de caracteres nomeado, armazenando o resultado em um novo array. | byte[]         |
+| hashCode()            | Retorna o hash code de uma String.                           |                |
+| indexOf()             | Retorna a posição da primeira ocorrência encontrada de um caractere específicp da string. | int            |
+| isEmpty()             | Verifica se a string está vazia.                             | boolean        |
+| length()              | Retorna o tamanho da string declarada.                       | int            |
+| replace()             | Procura na string por um valor específico, e retorna  uma nova string onde o valor específico foi alterado. | String         |
+| split()               | Divide uma string em uma série de substrings.                | String[]       |
+| toLowerCase()         | Converte todas as letras da string em minúsculas.            | String         |
+| toUpperCase()         | Converte todas as letras da string em maiúsculas.            | String         |
+| trim()                | Remove o espaço em branco em ambas extremidades de uma string. | String         |
+| valueOf()             | Retorna a representação do valor especificado                | String         |
+
+* [Ver todos os métodos de Strings disponíveis](https://www.w3schools.com/java/java_ref_string.asp)
+
+# 7) :eye: no código
 
 ## :file_folder: CaracteristicasDaLinguagem : 
 
