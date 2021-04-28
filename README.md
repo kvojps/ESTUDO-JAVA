@@ -97,6 +97,8 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 # 4) Interfaces :computer:
 
+[Conteúdo relacionado ao assunto](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Interfaces)
+
 * Métodos **abstratos**
   - Devem ser implementados por todos.
   - Novos métodos quebram as implementações.
@@ -105,6 +107,8 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
   * Novos métodos não quebram as implementações.
 
 # 5) Enums :computer:
+
+[Conteúdo relacionado ao assunto](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Enums)
 
 * Basicamente são dicionários de dados imutáveis.
 * Não é permitido criar novas instâncias.
