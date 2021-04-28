@@ -85,9 +85,13 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 ## :arrow_right:abstract
 
+[Conteúdo relacionado ao assunto](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/ModificadorAbstract)
+
 * Esse modificador não é aplicado nas variáveis, apenas em classes e métodos. Uma classe abstrata não pode ser instanciada. Se houver alguma declaração de um métodos como abstract(abstrato) a classe também deve ser marcada como abstract.
 
 ## :arrow_right:static
+
+[Conteúdo relacionado ao assunto](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/ModificadorStatic)
 
 * É usado para a criação de uma variável que poderá ser acessada por todas as instâncias de objetos desta classe como uma varável comun, ou seja, a variável criada será a mesma em todas as instâncias e quando seu conteúdo é modificado em uma das instâncias, a modificação ocorre em todas as demais. E nas declarações de métodos ajudam no acesso direto à classe, portanto não é necessário instanciar um objeto para acessar o método.
 
