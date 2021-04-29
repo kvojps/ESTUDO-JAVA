@@ -163,10 +163,33 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 * [Ver todos os métodos de Strings disponíveis](https://www.w3schools.com/java/java_ref_string.asp)
 
-# 9) :eye: no código
+# 9) Programação Orientada a Objetos (POO)
+
+## Classe :house:
+
+Por exemplo, quando pensamos em construir uma **casa**, nós fazemos uma **planta baixa**( nome que se dá ao desenho de uma construção feito). Ela será o modelo que utilizaremos para construir algo concreto.
+
+## Objeto :house:
+
+Agora entendemos que temos um modelo e podemos o seguir. Porém, o que faremos com este modelo ?
+
+* Bem, nós fizemos a analogia da **casa**, certo ? Depois de termos a **planta baixa**, nós começamos a construir. E o resultado do que nós construímos, vamos chamar de objeto. Podemos criar vários objetos de uma mesma classe, ou seja, várias instâncias de objetos.
+
+## Atributos :man::woman:
+
+Agora vamos pensar em uma **pessoa**, toda pessoa tem um nome. O nome é a característica de uma **pessoa** e pode ser diferente entre as pessoas. Logo, um nome é o atributo de uma **pessoa**.
+
+## Métodos :man::woman:
+
+Sabemos que uma **pessoa** pode realizar uma ação. Por exemplo, uma pessoa pode falar, logo isto é uma ação. As ações que nós definimos que uma classe pode ter, nós chamamos de métodos.
+
+
+
+# 10) :eye: no código
 
 ## :file_folder: CaracteristicasDaLinguagem : 
 
 * Como vocês podem ver no arquivo [EstruturaClasse](https://github.com/kvojps/ESTUDO-JAVA/blob/main/CaracteristicasDaLinguagem/Classes/EstruturaClasse.java), como o próprio nome já diz, mostro a vocês a estrutura de uma programa em Java, nesse caso, apenas mais um ou o primeiro "hello world " no seu console. 
 
 * Na pasta [Usuario](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Classes/Usuario), percebam que abordo conceitos iniciais da linguagem definindo um construtor para minha classe SuperUsuario, que vai ser utilizado para criação do objeto na classe ProgramaDoSuperUsuario e a posterior execução dos métodos definidos(getLogin(), getSenha()) em SuperUsuario.
+
