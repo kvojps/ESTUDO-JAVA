@@ -119,7 +119,23 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 * O construtor é sempre declarado como private.
 * Por convenção, por serem objetos constantes e imutáveis(static, final), os nomes são em maiúsculo.
 
-# 6) Métodos de Strings :nerd_face:
+# 6) Estrutura condicional
+
+[Código relacionado ao assunto](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Condicionais)
+
+* Use **if** para especificar um bloco de código a ser executado, se uma condição especificada for verdadeira.
+* Use **else** para especificar um bloco de código a ser executado, se a mesma condição for falsa.
+* Use **else if** para especificar uma nova condição para testar, se a condição anterior for falsa.
+* Use  **switch** para especificar muitos blocos alternativos de código a serem executados.
+
+# 7) Estrutura de repetição
+
+[Código relacionado ao assunto](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/LacosDeRepeticao)
+
+* As estruturas de repetição podem executar um bloco de código, desde que uma condição especificada seja executada.
+* As estruturas de repetição são úteis porque economizam tempo, reduzem erros e tornam o código mais legível.
+
+# 8) Métodos de Strings :nerd_face:
 
 * Alguns dos exemplos abaixo foram descritos no pacote [Strings](https://github.com/kvojps/ESTUDO-JAVA/tree/main/CaracteristicasDaLinguagem/Strings) presente neste repositório.
 
@@ -147,7 +163,7 @@ Java Enterprise Edition, é uma extensão da Java SE que possui suporte a desenv
 
 * [Ver todos os métodos de Strings disponíveis](https://www.w3schools.com/java/java_ref_string.asp)
 
-# 7) :eye: no código
+# 9) :eye: no código
 
 ## :file_folder: CaracteristicasDaLinguagem : 
 
