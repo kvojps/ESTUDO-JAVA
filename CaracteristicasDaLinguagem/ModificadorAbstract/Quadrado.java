@@ -1,21 +1,24 @@
 package Java.CaracteristicasDaLinguagem.ModificadorAbstract;
 
 public class Quadrado extends FormaGeometrica {
-    private String nome;
-    private double area;
+    private final String nome;
+    private final double area;
 
-    public Quadrado(final String nome, final double area){
+    public Quadrado(final String nome, final double area) {
         this.nome = nome;
         this.area = area;
     }
+
     @Override
-    public String nome(){
+    public String nome() {
         return nome;
     }
+
     @Override
-    public double area(){
+    public double area() {
         return area;
     }
+
     @Override
     public String toString() {
         final StringBuilder builder = new StringBuilder()//

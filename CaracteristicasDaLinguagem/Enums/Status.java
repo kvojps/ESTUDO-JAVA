@@ -1,22 +1,22 @@
 package Java.CaracteristicasDaLinguagem.Enums;
 
 public enum Status {
-    OPEN(13,"ABERTO"),
-    CLOSE(02,"FECHADO");
+    OPEN(13, "ABERTO"),
+    CLOSE(2, "FECHADO");
 
-    private int cod;
-    private String texto;
+    private final int cod;
+    private final String texto;
 
-    Status(final int cod, final String texto){
+    Status(final int cod, final String texto) {
         this.cod = cod;
         this.texto = texto;
     }
 
-    public int getCod(){
+    public int getCod() {
         return cod;
     }
 
-    public String getTexto(){
+    public String getTexto() {
         return texto;
     }
 }

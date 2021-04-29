@@ -4,16 +4,16 @@ public class EstruturaWhile {
     public static void main(String[] args) {
         var x = 0;
         // Testa a condição antes
-        while (x < 1){
+        while (x < 1) {
             System.out.println("Dentro do while !");
             x++;
         }
 
         var y = 0;
         // Testa a condição depois
-        do{
+        do {
             System.out.println("Dentro do doWhile !");
-        }while (y++ < 1);
+        } while (y++ < 1);
 
     }
 }

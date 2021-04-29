@@ -1,9 +1,8 @@
 package Java.CaracteristicasDaLinguagem.Classes.Usuario;
 
 public class SuperUsuario {
-    private String login;
-    private String senha;
-    String nome;
+    private final String login;
+    private final String senha;
 
     public SuperUsuario(final String login, final String senha){
         this.login = login;

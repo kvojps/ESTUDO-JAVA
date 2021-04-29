@@ -6,10 +6,10 @@ public class StringFormat {
         var sobrenome = " Ferreira";
         final var nomeCompleto = nome + sobrenome;
         System.out.println(nome);
-        System.out.println("Nome do cliente: "+ nome);
-        System.out.println("Nome completo do cliente: "+ nomeCompleto);
+        System.out.println("Nome do cliente: " + nome);
+        System.out.println("Nome completo do cliente: " + nomeCompleto);
         final var mensagem = String.format("O cliente %s possui sobrenome %s", nome, sobrenome);
         System.out.println(mensagem);
-        System.out.println(String.format("Número: %.2f", 1.23423d));
+        System.out.printf("Número: %.2f%n", 1.23423d);
     }
 }
